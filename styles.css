@@ -1,13 +1,17 @@
 body {
-  margin: auto;
+  margin: 0;
+  padding: 0;
   font-family: "Rubik", sans-serif;
 }
 
 header {
-  height: 180px;
-  background: linear-gradient(#187774, #88e7e4);
   text-align: center;
-  padding: 0 45px;
+  border: 1px solid red;
+  background-color: aqua;
+}
+
+a {
+  text-decoration: none;
 }
 
 ul {
